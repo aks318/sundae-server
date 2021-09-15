@@ -1,5 +1,4 @@
 import {
-    queryByText,
     render,
     screen,
     waitForElementToBeRemoved,
